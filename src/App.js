@@ -1,6 +1,6 @@
 import React from 'react'
 import './index.css'
-import Setup from './tutorial/1-useState/setup/5-useState-counter'
+import Setup from './tutorial/4-forms/setup/2-multiple-inputs'
 
 function App() {
   return (
